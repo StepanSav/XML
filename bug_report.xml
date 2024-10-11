@@ -1,2 +1,14 @@
-<1>
-</1>
+<bug_report>
+    <title>Facebook</title>
+    <description>Появляется ошибка на странице продавца Agron Haxha во вкладке About the seller при клике по кнопке Facebook</description>
+    <severity>minor</severity>
+    <steps>
+        <steps1>Зайти на сайт</steps1>
+        <steps2>Все роли пользователя</steps2>
+        <steps3>Зайти на страницу продавца</steps3>
+        <steps4>Клик по кнопке Facebook</steps4>
+    </steps> 
+    <expected result>Открывается страница Facebook</expected result>
+    <actual result>Не открывается страница Facebook</actual result>
+    <reporter>Степан</reporter>
+</bug_report>
